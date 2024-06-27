@@ -16,7 +16,7 @@ class _DiceScreenState extends State<DiceScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: changeColor ? Colors.grey[200] : Colors.grey[900],
+      backgroundColor: changeColor ? Colors.red[200] : Colors.grey[900],
       appBar: AppBar(
         title: Text(
           "ROLL THE DICE!",
