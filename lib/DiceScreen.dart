@@ -56,7 +56,7 @@ class _DiceScreenState extends State<DiceScreen> {
             fillColor: Colors.white,
             hoverColor: Colors.grey[300],
             shape: RoundedRectangleBorder(
-                borderRadius: BorderRadius.all(Radius.circular(10))),
+                borderRadius: BorderRadius.all(Radius.circular(50))),
           ),
           SizedBox(
             height: 30,
